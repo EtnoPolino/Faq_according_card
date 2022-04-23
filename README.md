@@ -1,2 +1,6 @@
-# Faq_according_card
-Challenge Frontend Mentor
+# Frontend Mentor - FAQ accordion card
+
+
+
+
+We want an image to exist until our max width of 1000px
